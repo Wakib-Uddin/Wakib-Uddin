@@ -1,4 +1,4 @@
-# H, I'm A.M. Wakib Uddin 👋
+# Hi, I'm A.M. Wakib Uddin 👋
 
 ### Computer Science Engineering Graduate | Python Developer | Data Analysist Enthusiast
 
