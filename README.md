@@ -1,6 +1,6 @@
-# Hi, I'm A.M. Wakib Uddin 👋
+# H, I'm A.M. Wakib Uddin 👋
 
-### Computer Science & Engineering Graduate | Python Developer | Backend & Data Science Enthusiast
+### Computer Science Engineering Graduate | Python Developer | Data Analysist Enthusiast
 
 I’m a Computer Science & Engineering professional from Bangladesh with a strong interest in **Python, backend development, data science, and machine learning**. I enjoy building practical software, developing APIs, working with data, and turning ideas into useful applications.
 
