@@ -53,14 +53,22 @@ I am building my skills through hands-on projects in data preparation, explorato
 
 ## GitHub Overview
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wakib-Uddin&show_icons=true&theme=transparent&title_color=168B78&icon_color=168B78&text_color=64748b&hide_border=true" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakib-Uddin&layout=compact&theme=transparent&title_color=168B78&text_color=64748b&hide_border=true" alt="Most used languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wakib-Uddin&bg_color=ffffff&color=334155&line=168B78&point=0F766E&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph"/>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Wakib-Uddin&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=2DD4A7&icon_color=2DD4A7&text_color=C9D1D9" width="100%" alt="GitHub profile statistics"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakib-Uddin&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2DD4A7&text_color=C9D1D9" width="100%" alt="Most used programming languages"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wakib-Uddin&bg_color=0D1117&color=C9D1D9&line=2DD4A7&point=FFFFFF&area_color=2DD4A7&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
 
 ## Current Learning Goals
 
