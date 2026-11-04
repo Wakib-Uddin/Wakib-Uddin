@@ -4,7 +4,7 @@ CSE graduate (BSc, Premier University, Chattogram) focused on **Python developme
 I'm currently building backend, automation and data projects to sharpen my skills.
 
 ## What I'm working on
-- 🛠️ [Expense Tracker CLI](https://github.com/Wakib-Uddin/expense-tracker): command-line app in Python with tests
+- 🛠️ [Expense Tracker CLI](https://github.com/Wakib-Uddin/Expanse-Tracker): command-line app in Python with tests
 - 🌐 [Portfolio](https://github.com/Wakib-Uddin/Portfolio): my personal site (HTML/CSS)
 - 📚 Next: a Flask/FastAPI REST API, then a pandas data-analysis project
 
