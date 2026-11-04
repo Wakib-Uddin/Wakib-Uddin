@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="190" viewBox="0 0 920 190" fill="none">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="920" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#2DD4BF"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="918" height="188" rx="15" fill="#0D1117" stroke="#263746"/>
+  <g opacity=".18" stroke="#78909C"><path d="M24 42H896M24 95H896M24 148H896"/><path d="M120 20V170M350 20V170M580 20V170M810 20V170"/></g>
+  <g font-family="monospace" font-size="11" fill="#A9BAC6" letter-spacing="1.2"><text x="35" y="30">DATA WORKFLOW / 01</text><text x="885" y="30" text-anchor="end">PYTHON · SQL · INSIGHT</text></g>
+  <g stroke="url(#line)" stroke-width="2" stroke-linecap="round"><path d="M174 96H276"/><path d="M404 96H506"/><path d="M634 96H736"/></g>
+  <g fill="#0D1117" stroke="#2DD4BF" stroke-width="2"><rect x="44" y="65" width="130" height="62" rx="9"/><rect x="276" y="65" width="128" height="62" rx="9"/><rect x="506" y="65" width="128" height="62" rx="9"/><rect x="736" y="65" width="140" height="62" rx="9"/></g>
+  <g font-family="monospace" font-size="12" fill="#E6EDF3" text-anchor="middle"><text x="109" y="91">RAW DATA</text><text x="109" y="108" fill="#8B9BA8" font-size="10">CSV / TABLES</text><text x="340" y="91">CLEAN</text><text x="340" y="108" fill="#8B9BA8" font-size="10">PANDAS</text><text x="570" y="91">ANALYZE</text><text x="570" y="108" fill="#8B9BA8" font-size="10">PYTHON / SQL</text><text x="806" y="91">INSIGHTS</text><text x="806" y="108" fill="#8B9BA8" font-size="10">CHARTS / REPORTS</text></g>
+  <g fill="#60A5FA" filter="url(#glow)"><circle r="4"><animateMotion dur="3.2s" repeatCount="indefinite" path="M174 96H276"/></circle><circle r="4"><animateMotion dur="3.2s" begin="-.8s" repeatCount="indefinite" path="M404 96H506"/></circle><circle r="4"><animateMotion dur="3.2s" begin="-1.6s" repeatCount="indefinite" path="M634 96H736"/></circle></g>
+  <g stroke="#2DD4BF" stroke-width="2" fill="none"><circle cx="109" cy="145" r="3"><animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/></circle><circle cx="340" cy="145" r="3"><animate attributeName="r" values="3;6;3" begin=".5s" dur="2s" repeatCount="indefinite"/></circle><circle cx="570" cy="145" r="3"><animate attributeName="r" values="3;6;3" begin="1s" dur="2s" repeatCount="indefinite"/></circle><circle cx="806" cy="145" r="3"><animate attributeName="r" values="3;6;3" begin="1.5s" dur="2s" repeatCount="indefinite"/></circle></g>
+  <g fill="#2DD4BF"><rect x="44" y="158" width="28" height="3" rx="1.5"><animate attributeName="width" values="10;48;10" dur="3s" repeatCount="indefinite"/></rect><rect x="848" y="158" width="28" height="3" rx="1.5"><animate attributeName="width" values="48;10;48" dur="3s" repeatCount="indefinite"/></rect></g>
+</svg>
