@@ -44,36 +44,70 @@ I am building my skills through hands-on projects in data preparation, explorato
 
 ## Featured Projects
 
-| Project | What it demonstrates |
-|---|---|
-| [Data Analysis Pipeline](https://github.com/Wakib-Uddin/Data-Analysis-Dashboard) | CSV loading, missing-value checks, duplicate handling, descriptive statistics, basic KPIs and visual reports using Pandas, NumPy and Matplotlib. |
-| [Network Intrusion Detection](https://github.com/Wakib-Uddin/Network-Intrusion-Detection) | Data preprocessing, numeric/categorical feature handling, Random Forest classification, precision, recall, F1-score and confusion matrix. |
-| [Spam Email Classifier](https://github.com/Wakib-Uddin/Spam-Email-Classifier) | Text preprocessing, TF-IDF features and supervised classification with Logistic Regression and Multinomial Naive Bayes. |
-| [Movie Recommendation API](https://github.com/Wakib-Uddin/Movie-Recommendation-API) | Content-based recommendations using TF-IDF and cosine similarity, exposed through a FastAPI endpoint. |
-| [E-Commerce REST API](https://github.com/Wakib-Uddin/E-Commerce-REST-API) | Backend engineering with FastAPI, SQLAlchemy, PostgreSQL and JWT authentication. |
-| [Expense Tracker CLI](https://github.com/Wakib-Uddin/Expanse-Tracker) | Python command-line application with JSON persistence, validation and unit tests. |
+<p align="center">
+  <sub>SELECTED WORK · DATA ANALYSIS · MACHINE LEARNING · BACKEND DEVELOPMENT</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Data Analysis Pipeline</h3>
+      <p>Explore a dataset through cleaning, missing-value checks, duplicate handling, descriptive statistics, KPI summaries and visual reports.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/></p>
+      <a href="https://github.com/Wakib-Uddin/Data-Analysis-Dashboard">VIEW REPOSITORY ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Network Intrusion Detection</h3>
+      <p>Machine-learning classification project focused on preprocessing network data and evaluating a Random Forest model.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/ML-Model_Evaluation-64748B?style=flat-square"/></p>
+      <a href="https://github.com/Wakib-Uddin/Network-Intrusion-Detection">VIEW REPOSITORY ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · Spam Email Classifier</h3>
+      <p>Text classification using TF-IDF features with Logistic Regression and Multinomial Naive Bayes.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TF--IDF-NLP-0F766E?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></p>
+      <a href="https://github.com/Wakib-Uddin/Spam-Email-Classifier">VIEW REPOSITORY ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · Movie Recommendation API</h3>
+      <p>Content-based movie recommendations using TF-IDF and cosine similarity, made available through a FastAPI endpoint.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/TF--IDF-Recommendation-0F766E?style=flat-square"/></p>
+      <a href="https://github.com/Wakib-Uddin/Movie-Recommendation-API">VIEW REPOSITORY ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 · E-Commerce REST API</h3>
+      <p>Backend project covering API routes, database-backed products and orders, and JWT authentication.</p>
+      <p><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/></p>
+      <a href="https://github.com/Wakib-Uddin/E-Commerce-REST-API">VIEW REPOSITORY ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06 · Expense Tracker CLI</h3>
+      <p>Python command-line application with JSON persistence, input validation and unit tests.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/Testing-Unit_Tests-64748B?style=flat-square"/></p>
+      <a href="https://github.com/Wakib-Uddin/Expanse-Tracker">VIEW REPOSITORY ↗</a>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Overview
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wakib-Uddin/Wakib-Uddin/main/assets/github-overview.svg" width="100%" alt="Animated overview of data analysis, machine learning and Python backend focus areas"/>
+</p>
+
 <div align="center">
 
-<a href="https://github.com/Wakib-Uddin?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-Public_Repositories-168B78?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories"/>
-</a>
-<a href="https://github.com/Wakib-Uddin">
-  <img src="https://img.shields.io/badge/View-Contribution_Profile-172033?style=for-the-badge&logo=github&logoColor=white" alt="View contribution profile"/>
-</a>
+<a href="https://github.com/Wakib-Uddin?tab=repositories"><img src="https://img.shields.io/badge/ALL_PROJECTS-Browse_Repositories-168B78?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories"/></a>
+<a href="https://github.com/Wakib-Uddin"><img src="https://img.shields.io/badge/CONTRIBUTIONS-View_Profile-263746?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contributions"/></a>
 
 </div>
 
-I keep my work public so you can explore the source code, project documentation and development history.
+I prefer showing the work itself over displaying unverified activity numbers. Explore the repositories for source code, documentation and commit history; GitHub's live contribution calendar is available on my profile.
 
-- **Repositories:** [Browse all my projects](https://github.com/Wakib-Uddin?tab=repositories)
-- **Contributions:** [View my GitHub contribution calendar](https://github.com/Wakib-Uddin)
-- **Pinned work:** See the featured Data Analysis, Machine Learning and Python Backend projects above.
-
-> GitHub displays the live contribution calendar directly on my profile. This section intentionally avoids third-party statistics images that may fail to load.
-  
 ## Current Learning Goals
 
 - Strengthen SQL: joins, aggregations, subqueries and window functions
