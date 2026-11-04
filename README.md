@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Wakib-Uddin">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=168B78&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Wakib+Uddin;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Exploring+data.+Building+with+Python." alt="Animated introduction: Wakib Uddin, aspiring Data Analyst"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=850&color=2DD4A7&center=true&vCenter=true&width=820&height=70&lines=Wakib+Uddin;Aspiring+Data+Analyst;Python+%C2%B7+SQL+%C2%B7+Excel;Exploring+data.+Building+with+Python." alt="Animated typing: Wakib Uddin, Aspiring Data Analyst, Python SQL Excel, Exploring data. Building with Python."/>
 </a>
 
 <p align="center">
