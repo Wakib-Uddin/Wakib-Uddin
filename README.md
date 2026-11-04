@@ -55,21 +55,23 @@ I am building my skills through hands-on projects in data preparation, explorato
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Wakib-Uddin&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=2DD4A7&icon_color=2DD4A7&text_color=C9D1D9" width="100%" alt="GitHub profile statistics"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakib-Uddin&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2DD4A7&text_color=C9D1D9" width="100%" alt="Most used programming languages"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wakib-Uddin&bg_color=0D1117&color=C9D1D9&line=2DD4A7&point=FFFFFF&area_color=2DD4A7&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<a href="https://github.com/Wakib-Uddin?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Public_Repositories-168B78?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories"/>
+</a>
+<a href="https://github.com/Wakib-Uddin">
+  <img src="https://img.shields.io/badge/View-Contribution_Profile-172033?style=for-the-badge&logo=github&logoColor=white" alt="View contribution profile"/>
+</a>
 
 </div>
 
+I keep my work public so you can explore the source code, project documentation and development history.
+
+- **Repositories:** [Browse all my projects](https://github.com/Wakib-Uddin?tab=repositories)
+- **Contributions:** [View my GitHub contribution calendar](https://github.com/Wakib-Uddin)
+- **Pinned work:** See the featured Data Analysis, Machine Learning and Python Backend projects above.
+
+> GitHub displays the live contribution calendar directly on my profile. This section intentionally avoids third-party statistics images that may fail to load.
+  
 ## Current Learning Goals
 
 - Strengthen SQL: joins, aggregations, subqueries and window functions
