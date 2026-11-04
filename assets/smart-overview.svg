@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101B2B"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+  <linearGradient id="teal" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="998" height="328" rx="18" fill="url(#bg)" stroke="#26384D"/>
+<g font-family="monospace">
+  <text x="34" y="36" font-size="12" letter-spacing="2.5" fill="#8CA3B8">WAKIB UDDIN / DEVELOPMENT OVERVIEW</text>
+  <text x="965" y="36" text-anchor="end" font-size="10" letter-spacing="1.5" fill="#2DD4BF">BUILD  /  ANALYZE  /  LEARN</text>
+</g>
+<path d="M34 55H966" stroke="#24364A"/>
+<g>
+  <rect x="32" y="76" width="296" height="190" rx="13" fill="#122638" stroke="#23534F"/>
+  <rect x="352" y="76" width="296" height="190" rx="13" fill="#15243A" stroke="#304B70"/>
+  <rect x="672" y="76" width="296" height="190" rx="13" fill="#122638" stroke="#23534F"/>
+</g>
+<g font-family="monospace">
+  <text x="54" y="105" font-size="11" letter-spacing="1.5" fill="#2DD4BF">01 / DATA ANALYSIS</text>
+  <text x="54" y="137" font-family="sans-serif" font-size="22" font-weight="600" fill="#E5EEF8">Turn data into insight</text>
+  <text x="54" y="160" font-size="11" fill="#A7B8C9">Python  /  Pandas  /  SQL  /  Excel</text>
+  <text x="374" y="105" font-size="11" letter-spacing="1.5" fill="#93C5FD">02 / MACHINE LEARNING</text>
+  <text x="374" y="137" font-family="sans-serif" font-size="22" font-weight="600" fill="#E5EEF8">Find useful patterns</text>
+  <text x="374" y="160" font-size="11" fill="#A7B8C9">Scikit-learn  /  NLP  /  Evaluation</text>
+  <text x="694" y="105" font-size="11" letter-spacing="1.5" fill="#2DD4BF">03 / PYTHON BACKEND</text>
+  <text x="694" y="137" font-family="sans-serif" font-size="22" font-weight="600" fill="#E5EEF8">Build practical APIs</text>
+  <text x="694" y="160" font-size="11" fill="#A7B8C9">FastAPI  /  PostgreSQL  /  JWT</text>
+</g>
+<g fill="none" stroke-width="2.5" stroke-linecap="round">
+  <path d="M54 222 L91 210 L128 218 L165 187 L202 197 L239 176 L276 184 L306 166" stroke="url(#teal)"/>
+  <path d="M374 222 L411 217 L448 195 L485 204 L522 177 L559 185 L596 164 L626 171" stroke="url(#blue)"/>
+  <path d="M694 222 L731 205 L768 212 L805 187 L842 193 L879 172 L916 180 L946 157" stroke="url(#teal)"/>
+</g>
+<g fill="#2DD4BF">
+  <circle r="4" cy="0"><animateMotion dur="5s" repeatCount="indefinite" path="M54 222 L91 210 L128 218 L165 187 L202 197 L239 176 L276 184 L306 166"/></circle>
+  <circle r="4" cy="0"><animateMotion dur="5.8s" begin="-1.7s" repeatCount="indefinite" path="M374 222 L411 217 L448 195 L485 204 L522 177 L559 185 L596 164 L626 171"/></circle>
+  <circle r="4" cy="0"><animateMotion dur="4.6s" begin="-2.2s" repeatCount="indefinite" path="M694 222 L731 205 L768 212 L805 187 L842 193 L879 172 L916 180 L946 157"/></circle>
+</g>
+<g font-family="monospace" font-size="10" fill="#8298AE">
+  <text x="34" y="300">PROJECT-DRIVEN PRACTICE</text>
+  <text x="500" y="300" text-anchor="middle">SOURCE CODE AND LEARNING IN PUBLIC</text>
+  <text x="966" y="300" text-anchor="end">CHITTAGONG, BD</text>
+</g>
+<path d="M34 312H966" stroke="#24364A"/>
+<rect x="34" y="311" width="155" height="2" fill="#2DD4BF"><animate attributeName="width" values="40;155;40" dur="4s" repeatCount="indefinite"/></rect>
+</svg>
