@@ -95,9 +95,16 @@ I am building my skills through hands-on projects in data preparation, explorato
 
 ## GitHub Overview
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Wakib-Uddin/Wakib-Uddin/main/assets/github-overview.svg?v=a876f94" width="100%" alt="Animated overview of data analysis, machine learning and Python backend focus areas"/>
-</p>
+<div align="center">
+
+| DATA ANALYSIS | MACHINE LEARNING | PYTHON BACKEND |
+|:---:|:---:|:---:|
+| **Explore and explain** | **Learn from patterns** | **Build useful APIs** |
+| Python · Pandas · SQL · Excel | Scikit-learn · NLP · Evaluation | FastAPI · PostgreSQL · JWT |
+
+<img src="https://img.shields.io/badge/01-Data_Analysis-168B78?style=flat-square" alt="Data analysis"/> <img src="https://img.shields.io/badge/02-Machine_Learning-3978B8?style=flat-square" alt="Machine learning"/> <img src="https://img.shields.io/badge/03-Python_Backend-168B78?style=flat-square" alt="Python backend"/>
+
+</div>
 
 <div align="center">
 
