@@ -96,7 +96,7 @@ I am building my skills through hands-on projects in data preparation, explorato
 ## GitHub Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wakib-Uddin/Wakib-Uddin/main/assets/github-overview.svg" width="100%" alt="Animated overview of data analysis, machine learning and Python backend focus areas"/>
+  <img src="https://raw.githubusercontent.com/Wakib-Uddin/Wakib-Uddin/main/assets/github-overview.svg?v=a876f94" width="100%" alt="Animated overview of data analysis, machine learning and Python backend focus areas"/>
 </p>
 
 <div align="center">
