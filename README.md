@@ -95,25 +95,19 @@ I am building my skills through hands-on projects in data preparation, explorato
 
 ## GitHub Overview
 
-<div align="center">
-
-| DATA ANALYSIS | MACHINE LEARNING | PYTHON BACKEND |
-|:---:|:---:|:---:|
-| **Explore and explain** | **Learn from patterns** | **Build useful APIs** |
-| Python · Pandas · SQL · Excel | Scikit-learn · NLP · Evaluation | FastAPI · PostgreSQL · JWT |
-
-<img src="https://img.shields.io/badge/01-Data_Analysis-168B78?style=flat-square" alt="Data analysis"/> <img src="https://img.shields.io/badge/02-Machine_Learning-3978B8?style=flat-square" alt="Machine learning"/> <img src="https://img.shields.io/badge/03-Python_Backend-168B78?style=flat-square" alt="Python backend"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wakib-Uddin/Wakib-Uddin/main/assets/smart-overview.svg" width="100%" alt="Animated developer overview showing Data Analysis, Machine Learning and Python Backend"/>
+</p>
 
 <div align="center">
 
-<a href="https://github.com/Wakib-Uddin?tab=repositories"><img src="https://img.shields.io/badge/ALL_PROJECTS-Browse_Repositories-168B78?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories"/></a>
-<a href="https://github.com/Wakib-Uddin"><img src="https://img.shields.io/badge/CONTRIBUTIONS-View_Profile-263746?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contributions"/></a>
+<a href="https://github.com/Wakib-Uddin?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-168B78?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
+<a href="https://github.com/Wakib-Uddin?tab=stars"><img src="https://img.shields.io/badge/DISCOVER-STARRED_PROJECTS-263746?style=for-the-badge&logo=github&logoColor=white" alt="Discover starred projects"/></a>
+<a href="https://github.com/Wakib-Uddin"><img src="https://img.shields.io/badge/VIEW-GITHUB_ACTIVITY-3978B8?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity"/></a>
 
 </div>
 
-I prefer showing the work itself over displaying unverified activity numbers. Explore the repositories for source code, documentation and commit history; GitHub's live contribution calendar is available on my profile.
+**How I work:** explore a problem, prepare the data, build a solution, evaluate the result and document what I learn.
 
 ## Current Learning Goals
 
