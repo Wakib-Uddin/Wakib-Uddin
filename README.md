@@ -1,12 +1,6 @@
 <div align="center">
 
-<p>
-  <a href="https://github.com/Wakib-Uddin">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=2600&pause=800&color=22C3A6&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Wakib+Uddin;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Data+Cleaning+%7C+Exploration+%7C+Visualization;Machine+Learning+%26+Backend+Projects" alt="Typing introduction"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Wakib%20Uddin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DATA%20ANALYSIS%20%7C%20PYTHON%20%7C%20SQL&descSize=17&descAlignY=60&color=0:0B172A,55:123B4A,100:168B78" width="100%" alt="Wakib Uddin — Data Analysis"/>
+<img src="assets/data-analytics-banner.svg" width="100%" alt="Wakib Uddin — animated data analytics banner"/>
 
 <a href="https://github.com/Wakib-Uddin"><img src="https://img.shields.io/badge/GitHub-Profile-172033?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/wakib-uddin-safi-1475902a0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
@@ -91,6 +85,6 @@ I keep my work public so you can explore the source code, project documentation 
 
 *Learning from data. Building with purpose.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0B172A,55:123B4A,100:168B78" width="100%" alt="Footer"/>
+<sub>DATA CURIOUS · PYTHON POWERED · ALWAYS LEARNING</sub>
 
 </div>
