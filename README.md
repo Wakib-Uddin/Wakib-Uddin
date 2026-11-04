@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=168B78&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Wakib+Uddin;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Exploring+data.+Building+with+Python." alt="Animated introduction: Wakib Uddin, aspiring Data Analyst"/>
 </a>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wakib-Uddin/Wakib-Uddin/main/assets/data-flow.svg" width="100%" alt="Animated data workflow: raw data to cleaning, analysis and insights"/>
+</p>
+
 <a href="https://github.com/Wakib-Uddin"><img src="https://img.shields.io/badge/GitHub-Profile-172033?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/wakib-uddin-safi-1475902a0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 <a href="https://github.com/Wakib-Uddin/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-168B78?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
