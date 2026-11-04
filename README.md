@@ -1,129 +1,86 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Wakib-Uddin/Wakib-Uddin/main/assets/profile-banner.svg" alt="Wakib Uddin — Python Backend Developer" width="100%"/>
+<p>
+  <a href="https://github.com/Wakib-Uddin">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=2600&pause=800&color=22C3A6&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Wakib+Uddin;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Data+Cleaning+%7C+Exploration+%7C+Visualization;Machine+Learning+%26+Backend+Projects" alt="Typing introduction"/>
+  </a>
+</p>
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=Python+Backend+Developer;FastAPI+%7C+SQL+%7C+PostgreSQL;Data+Analysis+%7C+Machine+Learning;Building+projects%2C+one+commit+at+a+time" alt="Animated introduction"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Wakib%20Uddin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DATA%20ANALYSIS%20%7C%20PYTHON%20%7C%20SQL&descSize=17&descAlignY=60&color=0:0B172A,55:123B4A,100:168B78" width="100%" alt="Wakib Uddin — Data Analysis"/>
 
-<a href="https://github.com/Wakib-Uddin"><img src="https://img.shields.io/badge/GitHub-Wakib--Uddin-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/Wakib-Uddin"><img src="https://img.shields.io/badge/GitHub-Profile-172033?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/wakib-uddin-safi-1475902a0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://github.com/Wakib-Uddin/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-0891B2?style=for-the-badge&logo=googlechrome" alt="Portfolio"/></a>
+<a href="https://github.com/Wakib-Uddin/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-168B78?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
-## 👋 About Me
+## About Me
 
-I'm a Computer Science & Engineering graduate from **Premier University, Chattogram, Bangladesh**, focused on Python backend development and practical data projects.
+I'm a Computer Science & Engineering graduate from **Premier University, Chattogram, Bangladesh**. My career goal is to grow as a **Data Analyst**, using Python, SQL and Excel to turn raw data into clear findings and useful visualizations.
 
-- 🐍 Building with Python and FastAPI
-- 🗄️ Applying SQL and PostgreSQL in backend projects
-- 📊 Working with Pandas, NumPy and data visualization
-- 🤖 Exploring machine-learning workflows with scikit-learn
-- 🧪 Improving project quality through testing, documentation and reproducible workflows
+I am building my skills through hands-on projects in data preparation, exploratory analysis, machine learning and Python backend development.
 
-## 🧰 Tech Stack
+- 📊 Interested in data cleaning, exploratory data analysis (EDA), reporting and visualization
+- 🐍 Working with Python, Pandas, NumPy and Matplotlib
+- 🧮 Practising data handling and reporting with Advanced Excel
+- 🗄️ Using SQL and PostgreSQL in database-backed projects
+- 🤖 Exploring supervised machine learning with scikit-learn
+
+## Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,sqlite,git,github,docker,html,css,js&perline=6" alt="Technology stack"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git and GitHub"/>
 </p>
+
+## Featured Projects
+
+| Project | What it demonstrates |
+|---|---|
+| [Data Analysis Pipeline](https://github.com/Wakib-Uddin/Data-Analysis-Dashboard) | CSV loading, missing-value checks, duplicate handling, descriptive statistics, basic KPIs and visual reports using Pandas, NumPy and Matplotlib. |
+| [Network Intrusion Detection](https://github.com/Wakib-Uddin/Network-Intrusion-Detection) | Data preprocessing, numeric/categorical feature handling, Random Forest classification, precision, recall, F1-score and confusion matrix. |
+| [Spam Email Classifier](https://github.com/Wakib-Uddin/Spam-Email-Classifier) | Text preprocessing, TF-IDF features and supervised classification with Logistic Regression and Multinomial Naive Bayes. |
+| [Movie Recommendation API](https://github.com/Wakib-Uddin/Movie-Recommendation-API) | Content-based recommendations using TF-IDF and cosine similarity, exposed through a FastAPI endpoint. |
+| [E-Commerce REST API](https://github.com/Wakib-Uddin/E-Commerce-REST-API) | Backend engineering with FastAPI, SQLAlchemy, PostgreSQL and JWT authentication. |
+| [Expense Tracker CLI](https://github.com/Wakib-Uddin/Expanse-Tracker) | Python command-line application with JSON persistence, validation and unit tests. |
+
+## GitHub Overview
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wakib-Uddin&show_icons=true&theme=transparent&title_color=168B78&icon_color=168B78&text_color=64748b&hide_border=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakib-Uddin&layout=compact&theme=transparent&title_color=168B78&text_color=64748b&hide_border=true" alt="Most used languages"/>
 </p>
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wakib-Uddin&bg_color=ffffff&color=334155&line=168B78&point=0F766E&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph"/>
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Current Learning Goals
 
-### 🛒 E-Commerce REST API
-FastAPI backend with SQLAlchemy, PostgreSQL, JWT authentication, product and order workflows.
+- Strengthen SQL: joins, aggregations, subqueries and window functions
+- Practise end-to-end exploratory data analysis on real-world datasets
+- Build clear, decision-focused charts and reports
+- Improve Excel analysis and reporting workflows
+- Develop a portfolio of documented data projects with reproducible results
 
-**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL
-
-<a href="https://github.com/Wakib-Uddin/E-Commerce-REST-API">View repository →</a>
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Network Intrusion Detection
-Machine-learning pipeline for structured network traffic: preprocessing, Random Forest and classification metrics.
-
-**Stack:** Python · Pandas · Scikit-learn · Matplotlib
-
-<a href="https://github.com/Wakib-Uddin/Network-Intrusion-Detection">View repository →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Spam Email Classifier
-NLP workflow using TF-IDF with Logistic Regression and Multinomial Naive Bayes.
-
-**Stack:** Python · NLP · Scikit-learn
-
-<a href="https://github.com/Wakib-Uddin/Spam-Email-Classifier">View repository →</a>
-</td>
-<td width="50%" valign="top">
-
-### 🎬 Movie Recommendation API
-Content-based recommendation service using TF-IDF, cosine similarity and FastAPI.
-
-**Stack:** Python · FastAPI · Pandas · Scikit-learn
-
-<a href="https://github.com/Wakib-Uddin/Movie-Recommendation-API">View repository →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Data Analysis Pipeline
-CSV cleaning, data-quality checks, KPIs, descriptive statistics and visual reports.
-
-**Stack:** Python · Pandas · NumPy · Matplotlib
-
-<a href="https://github.com/Wakib-Uddin/Data-Analysis-Dashboard">View repository →</a>
-</td>
-<td width="50%" valign="top">
-
-### 💰 Expense Tracker CLI
-Command-line spending tracker with JSON persistence, input validation and unit tests.
-
-**Stack:** Python · argparse · unittest
-
-<a href="https://github.com/Wakib-Uddin/Expanse-Tracker">View repository →</a>
-</td>
-</tr>
-</table>
-
-## 📈 GitHub at a Glance
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wakib-Uddin&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakib-Uddin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Wakib-Uddin&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</div>
-
-## 🧭 Current Focus
-
-- Build and test reliable FastAPI services
-- Strengthen database design, SQL and PostgreSQL skills
-- Improve ML projects with suitable datasets, reproducible evaluation and model persistence
-- Add CI workflows, deployment guides and clear project demos
-
-## 🤝 Let's Connect
+## Connect With Me
 
 - **LinkedIn:** [Wakib Uddin Safi](https://www.linkedin.com/in/wakib-uddin-safi-1475902a0/)
-- **Portfolio source:** [Wakib-Uddin/Portfolio](https://github.com/Wakib-Uddin/Portfolio)
-- **YouTube:** [Tech With Binary](https://youtube.com/@techwithbinary)
+- **GitHub:** [Wakib-Uddin](https://github.com/Wakib-Uddin)
+- **Portfolio:** [Portfolio repository](https://github.com/Wakib-Uddin/Portfolio)
 - **Location:** Chattogram, Bangladesh
 
 <div align="center">
 
-*Build thoughtfully. Learn continuously. Ship useful things.*
+*Learning from data. Building with purpose.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0b1220,50:0e7490,100:6366f1" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0B172A,55:123B4A,100:168B78" width="100%" alt="Footer"/>
 
 </div>
